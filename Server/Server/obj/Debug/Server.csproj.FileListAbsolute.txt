@@ -1,0 +1,13 @@
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.exe.config
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.pdb
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.pdb
+D:\Chat2\Server\Server\bin\Debug\Server.exe.config
+D:\Chat2\Server\Server\bin\Debug\Server.exe
+D:\Chat2\Server\Server\bin\Debug\Server.pdb
+D:\Chat2\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Chat2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Chat2\Server\Server\obj\Debug\Server.exe
+D:\Chat2\Server\Server\obj\Debug\Server.pdb
