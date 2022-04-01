@@ -45,14 +45,14 @@ namespace Server
             catch { Server.EndUser(this); }
         }
 
-        // ПРИВАТНЫЙ метод дополнительных проверок имени пользователя
+        // ПРИВАТНЫЙ метод ввода имени пользователя -> создание нового объекта-пользователя через NewUser(this)
         private bool setName(string Name)
         {
-            //Тут можно добавить различные проверки
             _userName = Name;
             Server.NewUser(this);
             AuthSuccess = true;
             return true;
+            //Можно добавить различные проверки
         }
 
         // мето обработки сокетом входящей строки (команды)
